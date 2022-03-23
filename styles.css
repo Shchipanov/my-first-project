@@ -570,6 +570,7 @@ div .navigation-link {
 .devace-images {
   background-color: #ffe17f;
   margin-bottom: 27px;
+  min-width: 160px;
 }
 
 .devace-images:hover {
